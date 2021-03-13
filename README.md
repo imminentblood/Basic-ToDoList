@@ -12,7 +12,7 @@ $ npm i --save @fortawesome/react-fontawesome OR yarn add @fortawesome/react-fon
 
 Commands used to publish react files in github:
 
-git remote set-url origin https://Meraki-OP.github.io/Basic-ToDoList
+git remote set-url origin https://jiteshkrs.github.io/Basic-ToDoList/
 
 npm run build or yarn build
 
